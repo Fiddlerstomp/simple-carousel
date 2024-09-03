@@ -1,0 +1,10 @@
+.carousel-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.items-container {
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+}
